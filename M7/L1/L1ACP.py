@@ -46,3 +46,7 @@ n2_lbl.pack()
 n2_entry.pack()
 btn.pack()
 text_box.pack()
+
+root.mainloop()
+
+#completed lesson 1

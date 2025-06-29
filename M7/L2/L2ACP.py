@@ -53,3 +53,8 @@ lbl4.place(x=20, y=110)
 date_entry.place(x=150, y=110)
 btn.place(x=140, y=210)
 textbox.place(y=250)
+
+
+root.mainloop()
+
+#completed lesson 2

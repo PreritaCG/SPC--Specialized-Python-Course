@@ -41,3 +41,5 @@ f1.place(x=0, y=200)
 #------------------Final Detailed Bill------------
 f2 = Frame(Top ,width = 350,height=200,relief=SUNKEN)
 f2.pack(side=RIGHT)
+
+Top.mainloop()

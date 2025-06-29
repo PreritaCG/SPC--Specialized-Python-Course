@@ -40,3 +40,5 @@ lbl3.pack()
 pass_entry.pack()
 btn.pack()
 textbox.pack()
+
+root.mainloop()
