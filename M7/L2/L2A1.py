@@ -16,6 +16,6 @@ for i in range(4):
             font=('Arial', 18),
             bg='#d0efff'
         )
-        btn.grid(row=i, column=j, sticky='nsew', padx=0.5, pady=)
+        btn.grid(row=i, column=j, sticky='nsew', padx=0.5, pady=0.5)
 
 root.mainloop()
